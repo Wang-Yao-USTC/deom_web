@@ -10,7 +10,7 @@ theme:
     titles_only: true
 
 nav:
-    - Detail: index.md
+    - General information: index.md
     - Theoretical formalism: theo.md 
     - Applications: app.md
     - Codes: codes.md
