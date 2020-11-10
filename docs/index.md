@@ -2,9 +2,9 @@
 
 ## A versatile approach to entangled system—environment dynamics
 
-![pic](/pics/2.png){: .center style="height:185px"}
-![pic](/pics/3.png){: .center style="height:185px"}
-![pic](/pics/1.png){: .center style="height:185px"}
+![pic](pics/2.png){: .center style="height:185px"}
+![pic](pics/3.png){: .center style="height:185px"}
+![pic](pics/1.png){: .center style="height:185px"}
 
 * [Group of Open Quantum Dynamics](http://openquan.ustc.edu.cn/){target=_blank}
 

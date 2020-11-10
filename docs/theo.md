@@ -8,7 +8,7 @@ It puts forward a quasi-particle picture for environmental influences.
 This picture unifies the physical descriptions and algebraic treatments on three distinct classes of quantum environments, electron bath, phonon bath, and two-level spin or exciton bath, as their participating in quantum dissipation processes.
 [[J. Chem. Phys. 140, 054105 (2014)]](http://dx.doi.org/10.1063/1.4863379){target=_blank}
 
-![pic](/pics/2.png){: .incenter style="height:250px" }
+![pic](pics/2.png){: .incenter style="height:250px" }
 
 ### Quantum dissipation with nonlinear coupling bath
 
