@@ -6,7 +6,7 @@ A set of deeply optimized codes for quantum dynamics, thermodynamics, and nonlin
 
 [Download](https://github.com/hou-dao/OpenQuant){target=_blank}
 
-### CODDE
+## CODDE
 
 Codes for the correlated driving-dissipation equation (CODDE)
 

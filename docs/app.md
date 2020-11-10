@@ -7,9 +7,9 @@ we incorporate further the time-dependent light field, which interacts with both
 [[J. Chem. Phys. 142, 024112 (2015)]](http://dx.doi.org/10.1063/1.4905494){target=_blank}
 
 ![pic](pics/fano2.jpg){: .center style="height:285px"}
-![pic](pics/fano.png){: .center style="height:285px"}
+![pic](pics/fano.jpg){: .center style="height:285px"}
 
-### Two-dimensional spectroscopy with non-Condon vibronic coupling
+## Two-dimensional spectroscopy with non-Condon vibronic coupling
 
 In this work, we study the effects of non-Condon vibronic coupling on the quantum coherence
 of excitation energy transfer, via the exact dissipaton-equation-of-motion evaluations on excitonic
