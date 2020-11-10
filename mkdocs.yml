@@ -10,7 +10,7 @@ theme:
     titles_only: true
 
 nav:
-    - Dissipaton equation of motion: index.md
+    - Detail: index.md
     - Theoretical formalism: theo.md 
     - Applications: app.md
     - Codes: codes.md
