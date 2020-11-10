@@ -6,7 +6,7 @@ In this work, to study the entangled system and bath polarization and nonlinear 
 we incorporate further the time-dependent light field, which interacts with both the molecular system andthe collective bath dipoles directly. 
 [[J. Chem. Phys. 142, 024112 (2015)]](http://dx.doi.org/10.1063/1.4905494){target=_blank}
 
-![pic](pics/fano2.png){: .center style="height:285px"}
+![pic](pics/fano2.jpg){: .center style="height:285px"}
 ![pic](pics/fano.png){: .center style="height:285px"}
 
 ### Two-dimensional spectroscopy with non-Condon vibronic coupling
