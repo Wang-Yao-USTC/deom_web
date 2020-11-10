@@ -1,0 +1,30 @@
+site_name: Dissipaton Equation of Motion
+
+theme:
+    name: material
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+    include_homepage_in_sidebar: true
+    titles_only: true
+
+nav:
+    - Dissipaton equation of motion: index.md
+    - Theoretical formalism: theo.md 
+    - Applications: app.md
+    - Codes: codes.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - markdown_include.include:
+      base_path: docs
+  - attr_list
+
+extra_css:
+  - 'extra.css'
